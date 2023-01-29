@@ -8,10 +8,10 @@ R4年度 プログラミング(2年) の最終課題の解答例を掲載して�
 
 ## ファイル解説(一部)
 
-- 4thQ_to_hand_in_both.c
+- [4thQ_to_hand_in_both.c](https://github.com/tobutrain/TB_Publishing/blob/main/EE_PG_4thQ_ASGN/4thQ_to_hand_in_both.c)
 
     台形分割，矩形分割どちらも利用して円周率を計算し，比較できるようにcsvに出力します。
 
-- 4thQ_to_hand_in_tbl.c
+- [4thQ_to_hand_in_tbl.c](https://github.com/tobutrain/TB_Publishing/blob/main/EE_PG_4thQ_ASGN/4thQ_to_hand_in_tbl.c)
 
     台形分割のみを利用して円周率を計算し，その結果をcsvに出力します。
