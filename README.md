@@ -7,4 +7,4 @@
 
 ## 現在の掲載物
 
-- [R4年度 プログラミング(2年) 最終課題解答例] (https://github.com/tobutrain/TB_Publishing/tree/main/EE_PG_4thQ_ASGN)
+- [R4年度 プログラミング(2年) 最終課題解答例](https://github.com/tobutrain/TB_Publishing/tree/main/EE_PG_4thQ_ASGN)
