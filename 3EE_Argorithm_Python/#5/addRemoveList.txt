@@ -1,0 +1,4 @@
+○ addRemoveList
+
+整数型: Top, num, prv
+リスト型: dateArray, pointerArray
